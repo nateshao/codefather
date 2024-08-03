@@ -4,7 +4,7 @@ export default [
     title: "项目实战",
     collapsable: false,
     children: [
-      "鱼皮项目学习建议（必读）.md",
+      "千羽项目学习建议（必读）.md",
       "AI 答题应用平台.md",
       "代码生成器共享平台.md",
       "手写 RPC 框架.md",

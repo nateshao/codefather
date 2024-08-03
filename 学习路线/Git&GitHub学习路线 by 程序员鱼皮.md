@@ -50,7 +50,7 @@ B：“TNND，你改了也不跟我说一声。”
 
 于是，以 GitHub 为代表的代码托管平台出现了。团队可以利用 GitHub 进行协作开发；开发者可以轻松阅读并参与到世界知名的开源项目中；我们每位同学也都可以免费使用 GitHub 上的代码，站在巨人的肩膀上打造自己的项目，或者通过参与开源来提升个人影响力等。
 
-此外，如今的 GitHub 还提供了更多强大的功能，比如问题讨论、在线编程、托管网站、自动构建项目等，对开发者非常有帮助。除了代码外，鱼皮也经常把一些需要团队内共享的文档上传到 GitHub 私仓和其他成员协作，免费无限制谁不爱呢？
+此外，如今的 GitHub 还提供了更多强大的功能，比如问题讨论、在线编程、托管网站、自动构建项目等，对开发者非常有帮助。除了代码外，千羽也经常把一些需要团队内共享的文档上传到 GitHub 私仓和其他成员协作，免费无限制谁不爱呢？
 
 当然，GitHub 只是代码托管平台中最有代表性的一个，其他知名的代码开源托管平台有国内的 Gitee、国外的 Bitbucket 等；面向企业的私有代码托管平台有 GitLab、腾讯工蜂等。它们没有什么本质的区别，都是平台而已，会用 GitHub，就会用其他的。
 
@@ -261,7 +261,7 @@ Git 的分支概念还是很重要的，大家可以使用 [Learning Git Branchi
 
 - 一节课入门：[https://www.bilibili.com/video/BV1hS4y1S7wL](https://www.bilibili.com/video/BV1hS4y1S7wL)
 - 5 分钟入门：[https://www.bilibili.com/video/BV1hS4y1S7wL](https://www.bilibili.com/video/BV1hS4y1S7wL)
-- 如何利用 GitHub 找到优质项目：[https://www.bilibili.com/video/BV1Ki4y1T7Cu](https://www.bilibili.com/video/BV1Ki4y1T7Cu)（鱼皮早期作品，特么青涩！）
+- 如何利用 GitHub 找到优质项目：[https://www.bilibili.com/video/BV1Ki4y1T7Cu](https://www.bilibili.com/video/BV1Ki4y1T7Cu)（千羽早期作品，特么青涩！）
 
 工具：
 

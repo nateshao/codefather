@@ -4,7 +4,7 @@
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是鱼皮。秋招仍在进行中，随着越来越多的公司开奖，最近 [编程导航星球](https://mp.weixin.qq.com/s/eNjauC-3361z-l7fy3VssA)  的小伙伴们也陆续发来了 offer 报喜：
+大家好，我是千羽。秋招仍在进行中，随着越来越多的公司开奖，最近 [编程导航星球](https://mp.weixin.qq.com/s/eNjauC-3361z-l7fy3VssA)  的小伙伴们也陆续发来了 offer 报喜：
 
 ![](https://pic.yupi.icu/1/image-20231028183709246.png)
 
@@ -92,4 +92,4 @@ offer 选择的核心在于 2 点，一是尽可能多地收集各公司的信�
 
 没拿到 offer 的同学也千万别气馁，继续加油！
 
-👇🏻 点击下方阅读原文，获取鱼皮往期编程干货
+👇🏻 点击下方阅读原文，获取千羽往期编程干货

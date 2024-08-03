@@ -1,6 +1,6 @@
 ### 开发经验
 
-通过项目提升开发能力：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+通过项目提升开发能力：[项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 ⭐️ [主流前后端项目部署方式](./主流前后端项目部署方式.md)
 

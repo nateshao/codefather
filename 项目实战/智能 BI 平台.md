@@ -38,11 +38,11 @@ AIGC：AI 生成内容
 
 项目中会带大家学习和实战：前后端高效开发方式、AIGC 应用开发、AI 提问技巧、系统优化、分布式限流、线程池、异步化、消息队列等一系列 **重点** 知识。
 
-鱼皮 **从 0 到 1 全程直播无剪辑** 地带大家开发完成项目，总课程时长近 **20 小时** ！从需求分析、技术选型、系统设计、项目初始化、前后端开发，每个环节我都 **从理论到实践** 给大家讲的明明白白、每个细节都不放过！
+千羽 **从 0 到 1 全程直播无剪辑** 地带大家开发完成项目，总课程时长近 **20 小时** ！从需求分析、技术选型、系统设计、项目初始化、前后端开发，每个环节我都 **从理论到实践** 给大家讲的明明白白、每个细节都不放过！
 
 除了学做项目之外，还能学会很多 **思考问题、对比方案** 的方法，提升排查问题、自主解决 Bug 的能力。
 
-还能获取到鱼皮的 **万用后端项目模板**，学习到最方便的全栈项目开发方式，熟练后 **几分钟开发一个新功能** 轻轻松松！
+还能获取到千羽的 **万用后端项目模板**，学习到最方便的全栈项目开发方式，熟练后 **几分钟开发一个新功能** 轻轻松松！
 
 ### 项目收获
 
@@ -52,7 +52,7 @@ AIGC：AI 生成内容
 4. 学习最新版本前后端开发脚手架的使用，掌握快速生成代码、前后端协作的方法，提高数倍开发效率
 5. 学到系统优化、分布式限流、线程池、异步化、消息队列等一系列重要知识，提升系统设计能力
 6. 学到项目开发、调试和优化技巧，如开发工具技巧、抽象封装、问题定位、性能优化等
-7. 鱼皮带你读文档！让你掌握阅读官方文档的方法技巧，提高自学能力
+7. 千羽带你读文档！让你掌握阅读官方文档的方法技巧，提高自学能力
 8. 所有 Bug 和问题均为直播解决，带你提升自主解决问题的能力
 
 ### 本项目适合的同学
@@ -154,7 +154,7 @@ AIGC：AI 生成内容
 
 ### 项目笔记
 
-鱼皮直播笔记：[https://bcdh.yuque.com/staff-wpxfif/resource/oywzglpnxegf579a](https://bcdh.yuque.com/staff-wpxfif/resource/oywzglpnxegf579a)
+千羽直播笔记：[https://bcdh.yuque.com/staff-wpxfif/resource/oywzglpnxegf579a](https://bcdh.yuque.com/staff-wpxfif/resource/oywzglpnxegf579a)
 
 密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
@@ -225,7 +225,7 @@ AIGC：AI 生成内容
 
 ## 学员反馈
 
-> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
+> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或千羽反馈，认真完成项目会有小奖励哦 🧧！
 
 ### 项目总结
 
@@ -292,8 +292,8 @@ AIGC：AI 生成内容
 
 ## 更多项目
 
-请见：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+请见：[项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 ## 加入学习
 
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，鱼皮原创项目均可学习。
+点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，千羽原创项目均可学习。

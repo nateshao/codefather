@@ -93,7 +93,7 @@ yarn config set registry [https://registry.yarnpkg.com](https://registry.yarnpkg
 
 - src下的e2e包可以删除（里面是测试业务流程的）
 - src-services-swagger包可以删除（接口文档工具）
-- config-openapi.json(定义项目用到的接口)，看了鱼皮启动报错了，记得找到用到的openAPI配置删除
+- config-openapi.json(定义项目用到的接口)，看了千羽启动报错了，记得找到用到的openAPI配置删除
 - Tests文件可以删除（除非大项目）
 
 ### 注意删一个文件启动一遍，预防项目跑不起来！！！

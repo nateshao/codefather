@@ -5,7 +5,7 @@
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
 
-大家好，我是鱼皮。Git 是主流的代码版本控制系统，是团队协作开发中必不可少的工具。
+大家好，我是千羽。Git 是主流的代码版本控制系统，是团队协作开发中必不可少的工具。
 
 之前已经给大家分享过 Git / GitHub 的学习指南，感兴趣的同学可以先看视频了解：[https://www.bilibili.com/video/BV1KZ4y1e7cG](https://www.bilibili.com/video/BV1KZ4y1e7cG)。
 

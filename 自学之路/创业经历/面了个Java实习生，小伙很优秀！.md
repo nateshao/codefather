@@ -4,7 +4,7 @@
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是鱼皮，前几天给自己的公司面试了一位 Java 暑期实习生，候选人目前是大三。
+大家好，我是千羽，前几天给自己的公司面试了一位 Java 暑期实习生，候选人目前是大三。
 
 整个过程我都录屏了，并且在征得候选人的同意后，把面试过程分享出来。一方面是希望对其他在学编程找工作的小伙伴有一些启发和参考，另一方面也是希望大家给屑老板一些建议，让我也能成为一个更好的面试官。
 
@@ -49,4 +49,4 @@
 ------
 
 
-欢迎学编程的朋友们加入鱼皮的 [编程知识星球](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) ，和上万名学编程的同学共享知识、交流进步，学习原创项目并享有答疑指导服务。
+欢迎学编程的朋友们加入千羽的 [编程知识星球](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) ，和上万名学编程的同学共享知识、交流进步，学习原创项目并享有答疑指导服务。

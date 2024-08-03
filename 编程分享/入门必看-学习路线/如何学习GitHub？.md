@@ -6,7 +6,7 @@
 
 > 昨天刚刚教大家 [如何更快地访问 GitHub](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247493961&idx=1&sn=16386132c1942f9f06d1adef61e4ca9f&scene=21#wechat_redirect)，按照惯例，今天不得来一个 GitHub 教程？
 
-最近，鱼皮在持续完善自己 GitHub 上的开源项目，也分享给了很多小伙伴，苦苦哀求大家可以给个 star。
+最近，千羽在持续完善自己 GitHub 上的开源项目，也分享给了很多小伙伴，苦苦哀求大家可以给个 star。
 
 ![](https://pic.yupi.icu/5563/202311051252864.png)liyupi 的 GitHub
 
@@ -49,7 +49,7 @@ GitHub 是 **全球知名的代码开源平台**。在这里，你可以查看�
 
 > 使用 Git
 
-关于如何在 GitHub 上探索项目，鱼皮之前也写过 [【硬核干货】如何高效找到优质编程项目？](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247492597&idx=1&sn=a4629094599f5b821ec2698ea4ef11f5&scene=21#wechat_redirect)。
+关于如何在 GitHub 上探索项目，千羽之前也写过 [【硬核干货】如何高效找到优质编程项目？](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247492597&idx=1&sn=a4629094599f5b821ec2698ea4ef11f5&scene=21#wechat_redirect)。
 
 对于已经掌握 GitHub 基本用法的朋友，也可以利用该文档查漏补缺，了解更多提升 GitHub 使用效率和工作效率的强大功能！
 
@@ -83,7 +83,7 @@ GitHub 是 **全球知名的代码开源平台**。在这里，你可以查看�
 
 
 
-您好，我是鱼皮，20 届本科毕业加入腾讯，是一名热爱分享技术干货的全栈工程师。
+您好，我是千羽，20 届本科毕业加入腾讯，是一名热爱分享技术干货的全栈工程师。
 
 在校期间带工作室建设几十个网站，拿过国家奖学金、挑战杯国奖、上海市优秀毕业生，也曾在字节跳动实习，有段创业经历，并成功落户上海。
 

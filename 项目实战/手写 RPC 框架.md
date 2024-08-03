@@ -29,11 +29,11 @@
 
 该项目是一个侧重技术架构的轮子类项目，区别于增删改查、泛滥的业务系统，能学到很多后端架构设计方面的知识技能，比如网络协议设计、注册中心、动态代理和 SPI 机制、多种设计模式、负载均衡、重试机制、容错机制等等。
 
-区别于网上已有的 RPC 项目教程，鱼皮的 RPC 教程是真正 **从 0 到 1、一步一步带大家思考并完成项目**，而不是对着源码去讲解，更适合入门理解。而且，鱼皮的 RPC 教程选用了 **Vert.x、Etcd、Kryo 等新颖的技术**，并且从 0 带大家从入门到实践这些技术。**做完这个项目，可能比看好多套教程带来的收获都大。**
+区别于网上已有的 RPC 项目教程，千羽的 RPC 教程是真正 **从 0 到 1、一步一步带大家思考并完成项目**，而不是对着源码去讲解，更适合入门理解。而且，千羽的 RPC 教程选用了 **Vert.x、Etcd、Kryo 等新颖的技术**，并且从 0 带大家从入门到实践这些技术。**做完这个项目，可能比看好多套教程带来的收获都大。**
 
-> 负责任地说，鱼皮决定带大家做这个项目前，把市面上几乎所有的 RPC 教程都看了，只为帮助大家更好地入门学习。
+> 负责任地说，千羽决定带大家做这个项目前，把市面上几乎所有的 RPC 教程都看了，只为帮助大家更好地入门学习。
 
-因此，强烈建议所有后端方向的同学，跟着鱼皮的教程动手做个自己的 RPC 框架。
+因此，强烈建议所有后端方向的同学，跟着千羽的教程动手做个自己的 RPC 框架。
 
 精心划分的目录结构，更适于学习：
 
@@ -43,11 +43,11 @@
 
 ![](https://pic.yupi.icu/5563/202403171822626.png)
 
-跟着鱼皮做项目的收获：
+跟着千羽做项目的收获：
 
 ![](https://pic.yupi.icu/5563/202403171822662.png)
 
-鱼皮的实战项目系列还会提供以下服务，详情见 [项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd) ：
+千羽的实战项目系列还会提供以下服务，详情见 [项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd) ：
 
 - 详细的直播笔记
 - 完整的项目源码
@@ -60,7 +60,7 @@
 
 ### 项目收获
 
-鱼皮给大家讲的都是通用的项目开发方法和架构设计套路，从这个项目中你可以学到：
+千羽给大家讲的都是通用的项目开发方法和架构设计套路，从这个项目中你可以学到：
 
 - 如何拆解需求，从 0 开始设计实现 RPC 框架？
 - 如何运用设计模式 + SPI 机制扩展项目？
@@ -83,7 +83,7 @@
 
 如果你已经学习过至少一门 RPC 框架（比如 Dubbo），学这个项目会更加轻松。
 
-更多项目学习建议，可以阅读 [鱼皮项目学习建议](https://yuyuanweb.feishu.cn/wiki/Q4AdwjLDWiLZy0kAjHqcQinon8N)。
+更多项目学习建议，可以阅读 [千羽项目学习建议](https://yuyuanweb.feishu.cn/wiki/Q4AdwjLDWiLZy0kAjHqcQinon8N)。
 
 > ⭐️ 加入项目系列学习：[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 
 
@@ -195,7 +195,7 @@
 
 ### 项目笔记（持续更新中）
 
-鱼皮直播笔记：https://bcdh.yuque.com/staff-wpxfif/resource/gowqna5casecypkr（完整文字教程）
+千羽直播笔记：https://bcdh.yuque.com/staff-wpxfif/resource/gowqna5casecypkr（完整文字教程）
 
 密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
@@ -233,7 +233,7 @@
 
 ## 学员反馈
 
-> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
+> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或千羽反馈，认真完成项目会有小奖励哦 🧧！
 
 ### 项目总结（持续更新中）
 
@@ -259,8 +259,8 @@
 
 ## 更多项目
 
-请见：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+请见：[项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 ## 加入学习
 
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，鱼皮原创项目均可学习。
+点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，千羽原创项目均可学习。

@@ -321,7 +321,7 @@
 
 ### 算法（人工智能）
 
-> 鱼皮自己没怎么接触人工智能，结合网上很多大神的资料整理而成，也有一定参考意义。
+> 千羽自己没怎么接触人工智能，结合网上很多大神的资料整理而成，也有一定参考意义。
 
 
 - 数学基础 
@@ -385,7 +385,7 @@
 
 Python 能被广泛应用，很大程度上是因为其丰富的类库，就是他人提前写好并封装的代码。基本你要做什么东西都能找到对应的类库，直接看文档用就行了，大大提高开发效率！
 
-开源项目 `awesome-python-cn`（地址：https://github.com/jobbole/awesome-python-cn） 和 `awesome-python`（地址：https://github.com/vinta/awesome-python）已经帮大家整理了各方向的 Python 类库，数量非常多。鱼皮在此基础上筛选了一些相对优质的库，分享给大家。
+开源项目 `awesome-python-cn`（地址：https://github.com/jobbole/awesome-python-cn） 和 `awesome-python`（地址：https://github.com/vinta/awesome-python）已经帮大家整理了各方向的 Python 类库，数量非常多。千羽在此基础上筛选了一些相对优质的库，分享给大家。
 
 ### 通用
 
@@ -578,7 +578,7 @@ Python 能被广泛应用，很大程度上是因为其丰富的类库，就是�
 - 小甲鱼 -《零基础入门学习Python》最新版：https://www.bilibili.com/video/av52080698（可惜，更新到一半就没了。。）
 - 【麻省理工学院-中文字幕版】Python 和计算机科学导论公开课：https://www.bilibili.com/video/BV1ty4y1x7xP（适合外语不错的同学课外看，感受国外教学氛围）
 - 阿里云 python 工程师学习：https://developer.aliyun.com/graph/python（有在线编程体验）
-- 鱼皮公众号【程序员千羽】后台回复 Python，也有一套视频课
+- 千羽公众号【程序员千羽】后台回复 Python，也有一套视频课
 
 #### 其他
 

@@ -6,7 +6,7 @@
 
 > [最近在带大家做新项目，欢迎参与](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247529515&idx=1&sn=eb5e2af507ce35e3c4159dad7e1424f1&chksm=e9c293dcdeb51acac148fd14c0677ab3c1076c47ab52a33ffe7d682a3e1d1d8f37c4d3c7d167&token=1411297570&lang=zh_CN&scene=21#wechat_redirect)
 
-大家好，我是鱼皮。
+大家好，我是千羽。
 
 我的老弟小阿巴最近不是在某公司实习嘛，前两天我问他：老弟，最近实习感觉如何？学到什么东西了不？
 
@@ -30,7 +30,7 @@
 
 我：原来如此，那怎么开发一个 starter 呢？
 
-小阿巴（一脸难以置信）：不是吧老鱼皮，这次竟然轮到我来教教你了。
+小阿巴（一脸难以置信）：不是吧老千羽，这次竟然轮到我来教教你了。
 
 ![](https://pic.yupi.icu/5563/202311080940488.png)
 
@@ -147,4 +147,4 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.yupi.mystarte
 
 ## 完
 
-在鱼皮最新带大家直播开发的 [API 开放平台项目](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247529515&idx=1&sn=eb5e2af507ce35e3c4159dad7e1424f1&chksm=e9c293dcdeb51acac148fd14c0677ab3c1076c47ab52a33ffe7d682a3e1d1d8f37c4d3c7d167&token=1411297570&lang=zh_CN&scene=21#wechat_redirect) 中，也手把手带大家做了一个 Starter 类库，还分享了开发第三方类库的经验，感兴趣的同学欢迎加入我的 [编程知识星球](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247524980&idx=2&sn=9ddcdb6c52aa096ed4c5ad0ced946a7d&chksm=e9c28583deb50c95f3c2665713a8bbc372c68332b3bfb846cf4b23af3f1cc07164832a291335&token=689599617&lang=zh_CN&scene=21#wechat_redirect) 参与。除了直播带大家开发完整项目外，我会 1 对 1 解决你的问题。可以加微信 yupi5927，备注【加入星球】和自己的情况领取优惠加入星球，不备注不通过，非诚勿扰谢谢。
+在千羽最新带大家直播开发的 [API 开放平台项目](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247529515&idx=1&sn=eb5e2af507ce35e3c4159dad7e1424f1&chksm=e9c293dcdeb51acac148fd14c0677ab3c1076c47ab52a33ffe7d682a3e1d1d8f37c4d3c7d167&token=1411297570&lang=zh_CN&scene=21#wechat_redirect) 中，也手把手带大家做了一个 Starter 类库，还分享了开发第三方类库的经验，感兴趣的同学欢迎加入我的 [编程知识星球](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247524980&idx=2&sn=9ddcdb6c52aa096ed4c5ad0ced946a7d&chksm=e9c28583deb50c95f3c2665713a8bbc372c68332b3bfb846cf4b23af3f1cc07164832a291335&token=689599617&lang=zh_CN&scene=21#wechat_redirect) 参与。除了直播带大家开发完整项目外，我会 1 对 1 解决你的问题。可以加微信 yupi5927，备注【加入星球】和自己的情况领取优惠加入星球，不备注不通过，非诚勿扰谢谢。

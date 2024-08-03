@@ -4,7 +4,7 @@
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是鱼皮，今天分享个我的新项目公开课预告~
+大家好，我是千羽，今天分享个我的新项目公开课预告~
 
 **本周四（7 月 27 号）晚 20 点** ，我会继续在 **B 站和抖音** 直播新项目，依然是从 0 到 1 全程直播开发！
 
@@ -56,7 +56,7 @@
 
 ## 往期项目
 
-鱼皮已经在自己的 [编程导航学习圈](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) 从 0 - 1 全程直播带做了 5 个 原创项目 ，手把手带你 **掌握独立开发项目的方法** ，并且提供 **现成的简历写法** ，也已经成功帮助不少小伙伴找到了实习和工作。
+千羽已经在自己的 [编程导航学习圈](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) 从 0 - 1 全程直播带做了 5 个 原创项目 ，手把手带你 **掌握独立开发项目的方法** ，并且提供 **现成的简历写法** ，也已经成功帮助不少小伙伴找到了实习和工作。
 
 - [编程导航精选项目-智能BI平台](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247544397&idx=1&sn=ddbbf61e6980dec63d081c8bcfdc66e4&chksm=e9c2c9badeb540ac09dc9603ab3105c95d114786c2e00d305ee259d206e45350d0be39d43eb6&scene=21#wechat_redirect)
 - [编程导航精选项目-聚合搜索平台](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247541686&idx=1&sn=c4082ba8dab5af0e95967ff3b0edf9cb&chksm=e9c2c441deb54d57cb3dee251304e74181671f13329f5bdbcdf55abec95336c95436d905e867&token=405633143&lang=zh_CN&scene=21#wechat_redirect)

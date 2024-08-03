@@ -35,7 +35,7 @@
 ### 什么是 RPC？
 专业定义：RPC（Remote Procedure Call）即远程过程调用，是一种计算机通信协议，它允许程序在不同的计算机之间进行通信和交互，就像本地调用一样。
 
-简单理解，新开了一家卖鱼皮的熟食店，现在你作为消费者想要把鱼皮购买到家。如果是以前，你只能自己跑腿到线下店铺购买，耗时耗力。但现在有了手机、网络、外卖平台，你只需要在家动动手指，就能点个外卖让骑手把鱼皮配送到家，你不需要关注网络是怎么传输的、外卖平台是怎么操作的、骑手小哥是怎么配送的，只负责享受鱼皮就行了。
+简单理解，新开了一家卖千羽的熟食店，现在你作为消费者想要把千羽购买到家。如果是以前，你只能自己跑腿到线下店铺购买，耗时耗力。但现在有了手机、网络、外卖平台，你只需要在家动动手指，就能点个外卖让骑手把千羽配送到家，你不需要关注网络是怎么传输的、外卖平台是怎么操作的、骑手小哥是怎么配送的，只负责享受千羽就行了。
 
 
 
@@ -462,7 +462,7 @@ public class EasyConsumerExample {
 
 web 服务器的选择有很多，比如 Spring Boot 内嵌的 Tomcat、NIO 框架 Netty 和 Vert.x 等等。
 
-此处鱼皮带大家使用高性能的 NIO 框架 Vert.x 来作为 RPC 框架的 web 服务器。
+此处千羽带大家使用高性能的 NIO 框架 Vert.x 来作为 RPC 框架的 web 服务器。
 
 Vert.x 官方文档：https://vertx.io/
 
@@ -1380,4 +1380,4 @@ UserService userService = ServiceProxyFactory.getProxy(UserService.class);
 
 本项目的代码完全开源：[https://github.com/liyupi/yu-rpc](https://github.com/liyupi/yu-rpc)
 
-加入编程导航，获取鱼皮的完整项目教程：https://yupi.icu
+加入编程导航，获取千羽的完整项目教程：https://yupi.icu

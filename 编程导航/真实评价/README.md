@@ -36,7 +36,7 @@
 
 ### 星球直播和项目评价
 
-鱼皮全程直播项目开发，从 0 到 1 带你实现一个项目的全流程：
+千羽全程直播项目开发，从 0 到 1 带你实现一个项目的全流程：
 
 ![](https://www.codefather.cn/img285/30.png)
 
@@ -152,7 +152,7 @@
 
 ### 鱼友上岸报喜
 
-顺利上岸拿到心仪的 offer，向鱼皮来报喜了~ 希望其他的鱼友也都能达成自己的目标：
+顺利上岸拿到心仪的 offer，向千羽来报喜了~ 希望其他的鱼友也都能达成自己的目标：
 
 ![](https://www.codefather.cn/img285/3.png)
 
@@ -212,7 +212,7 @@
 
 ![](https://www.codefather.cn/img285/BkFGM7CX52gtlnna418Ujg.png)
 
-星主鱼皮每天更新自己的大厂打工日记，带动鱼友们一同努力：
+星主千羽每天更新自己的大厂打工日记，带动鱼友们一同努力：
 
 ![](https://www.codefather.cn/img285/6JrnPRXWdI-8DFfxeu1m-g.png)
 
@@ -350,7 +350,7 @@
 
 ![](https://www.codefather.cn/img285/XFAFz9fiOvqnBp7-xLOeqA.png)
 
-带着鱼皮的项目去参赛，进了 C4 比赛：
+带着千羽的项目去参赛，进了 C4 比赛：
 
 ![](https://www.codefather.cn/img285/vwRPMJrit0jKaoYxCKc6bw.png)
 
@@ -366,7 +366,7 @@
 
 ![](https://www.codefather.cn/img285/dYOrVLwNiGD0MgBL9tq39w.png)
 
-鱼皮每次直播都很用心，有次项目开发直播 4 个小时无休，直到凌晨 1点半：
+千羽每次直播都很用心，有次项目开发直播 4 个小时无休，直到凌晨 1点半：
 
 ![](https://www.codefather.cn/img285/pzmjCL5t8tsaeCtbD4KU9Q.png)
 

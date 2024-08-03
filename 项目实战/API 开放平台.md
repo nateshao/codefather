@@ -48,7 +48,7 @@
 
 ![](https://pic.yupi.icu/1/(null)-20231026152050073.(null))
 
-鱼皮 **从 0 到 1 全程直播无剪辑** 地带大家开发完成项目，总课程时长 **近 20 小时** ！从需求分析、技术选型、系统设计、项目初始化、前后端开发，每个环节我都 **从理论到实践** 给大家讲的明明白白、每个细节都不放过！
+千羽 **从 0 到 1 全程直播无剪辑** 地带大家开发完成项目，总课程时长 **近 20 小时** ！从需求分析、技术选型、系统设计、项目初始化、前后端开发，每个环节我都 **从理论到实践** 给大家讲的明明白白、每个细节都不放过！
 
 除了学做项目之外，还能学会很多 **思考问题、对比方案** 的方法，提升排查问题、自主解决 Bug 的能力。还能学习到 **最方便的项目开发方式** ，熟练后 **几分钟开发一个新功能** 轻轻松松！
 
@@ -59,7 +59,7 @@
 3. 学到新版前后端脚手架的使用，掌握快速生成代码、前后端协作的方法，提高数倍开发效率
 4. 跳出传统的 CRUD，学习企业级第三方平台的架构设计和开发
 5. 学到客户端 SDK、API 签名认证、API 网关、RPC 分布式等知识及编程技巧
-6. 鱼皮带你读文档！让你掌握阅读官方文档的方法技巧，提高自学能力
+6. 千羽带你读文档！让你掌握阅读官方文档的方法技巧，提高自学能力
 7. 带你分析解决项目中的问题，提升自主解决问题的能力
 
 ### 本项目适合的同学
@@ -157,7 +157,7 @@
 
 ### 项目笔记
 
-鱼皮直播笔记：[https://bcdh.yuque.com/staff-wpxfif/resource/sntu12](https://bcdh.yuque.com/staff-wpxfif/resource/sntu12)
+千羽直播笔记：[https://bcdh.yuque.com/staff-wpxfif/resource/sntu12](https://bcdh.yuque.com/staff-wpxfif/resource/sntu12)
 
 密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
@@ -231,7 +231,7 @@
 
 ## 学员反馈
 
-> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
+> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或千羽反馈，认真完成项目会有小奖励哦 🧧！
 
 ### 项目总结
 
@@ -308,8 +308,8 @@
 
 ## 更多项目
 
-请见：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+请见：[项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 ## 加入学习
 
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，鱼皮原创项目均可学习。
+点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，千羽原创项目均可学习。

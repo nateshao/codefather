@@ -1,6 +1,6 @@
 # 工具 - 无门槛 AI 对话  绘画神器
 
-鱼皮团队研发的《鱼聪明 AI》网站：https://yucongming.com （做您强大的 AI 助手）
+千羽团队研发的《鱼聪明 AI》网站：https://yucongming.com （做您强大的 AI 助手）
 
 ![](https://pic.yupi.icu/5563/202404191333530.jpeg)
 
@@ -136,7 +136,7 @@
 
 ### 开放平台
 
-除了可以在网页上使用鱼聪明外，鱼皮本身作为程序员，当然也考虑到了程序员朋友们的需求啦。
+除了可以在网页上使用鱼聪明外，千羽本身作为程序员，当然也考虑到了程序员朋友们的需求啦。
 
 所以我们提供了开放平台，让你在程序中使用 AI 助手！
 
@@ -150,7 +150,7 @@
 // 构造请求
 DevChatRequest devChatRequest = new DevChatRequest();
 devChatRequest.setModelId(1651468516836098050L);
-devChatRequest.setMessage("鱼皮");
+devChatRequest.setMessage("千羽");
 // 获取 AI 助手的回复
 BaseResponse<DevChatResponse> response = client.doChat(devChatRequest);
 System.out.println(response.getData());

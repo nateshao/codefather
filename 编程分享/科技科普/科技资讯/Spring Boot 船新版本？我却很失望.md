@@ -6,7 +6,7 @@
 
 > [最近在带大家做新项目，欢迎参与](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247529515&idx=1&sn=eb5e2af507ce35e3c4159dad7e1424f1&chksm=e9c293dcdeb51acac148fd14c0677ab3c1076c47ab52a33ffe7d682a3e1d1d8f37c4d3c7d167&token=1411297570&lang=zh_CN&scene=21#wechat_redirect)
 
-大家好，我是鱼皮。
+大家好，我是千羽。
 
 先讲个故事，我大二的老弟小阿巴，昨天用 IDEA 开发工具初始化了个 Java Spring Boot 的项目。明明操作流程和往常一模一样，结果项目却跑不起来。
 

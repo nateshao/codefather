@@ -12,7 +12,7 @@
 1. 通过简单的分享，帮助大家快速学习或复习巩固项目开发中的重点知识，便于把控学习进度、并且持续加深印象。
 2. 打造由编程导航主导、星球同学 **共建** 的开源编程知识大百科项目，帮助到更多同学，并提高个人和编程导航的影响力，是一件有长期价值的事情。
 
-鱼皮已经整理了带大家做过的每个项目的知识碎片（130 多个，具体内容持续更新中），即使现在还没有做过任何项目，也可以学习。学完后再做 [编程导航星球项目](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)，效果翻倍！
+千羽已经整理了带大家做过的每个项目的知识碎片（130 多个，具体内容持续更新中），即使现在还没有做过任何项目，也可以学习。学完后再做 [编程导航星球项目](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)，效果翻倍！
 
 欢迎大家 [点此贡献知识碎片](https://yuyuanweb.feishu.cn/docx/I0rkd4p4foQe0dxZ6z4cAtcKnuc#CIi3dqfucobQzNxk6VqcOdCBn4e)，帮助自己复习，并获得奖励 🎁
 

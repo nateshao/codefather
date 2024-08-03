@@ -2,7 +2,7 @@
 
 #### 保姆级实战项目教程
 
-⭐️ [项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+⭐️ [项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 [实战项目 - OJ 判题系统](./保姆级实战项目教程/实战项目%20-%20OJ%20判题系统.md)
 

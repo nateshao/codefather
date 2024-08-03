@@ -4,7 +4,7 @@
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是鱼皮。
+大家好，我是千羽。
 
 ![](https://pic.yupi.icu/5563/202311051538842.png)
 
@@ -36,7 +36,7 @@
 
 好，接下来说一下 Windows 的缺点，就用我从小到大的翻车事迹来说明吧：
 
-姓名：李鱼皮
+姓名：李千羽
 
 事迹：
 
@@ -128,4 +128,4 @@ Mac 上**安装软件也非常方便**，就跟我们手机上装软件一样，
 ------
 
 
-最后，欢迎学编程的朋友们加入鱼皮的[编程知识星球](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN&scene=21#wechat_redirect)，鱼皮会 1 对 1 解决你的问题，直播带你做出项目、为你定制学习计划和求职指导，还能获取海量编程学习资源，和上万名学编程的同学共享知识、交流进步。求职季一起加油！
+最后，欢迎学编程的朋友们加入千羽的[编程知识星球](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN&scene=21#wechat_redirect)，千羽会 1 对 1 解决你的问题，直播带你做出项目、为你定制学习计划和求职指导，还能获取海量编程学习资源，和上万名学编程的同学共享知识、交流进步。求职季一起加油！

@@ -40,7 +40,7 @@
 
 ![](https://pic.yupi.icu/1/(null)-20231026151907345.(null))
 
-感兴趣的同学可以 **免费试看** 第一期项目回放：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+感兴趣的同学可以 **免费试看** 第一期项目回放：[项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 ### 为什么带大家做这个项目？
 
@@ -54,11 +54,11 @@
 
 该项目选题非常 **新颖** ，不同于泛滥的管理系统、博客、商城，不同于只有增删改查的业务系统，本项目会基于 **Docker** **虚拟化技术** **+ 多种设计模式** ，从 0 开始手把手带大家实现一个安全的、可复用的 **代码****沙箱** ，并通过 **微服务架构** 实现一个可扩展的在线判题系统。
 
-鱼皮 **从 0 到 1 全程直播无剪辑** 地带大家开发完成项目，总课程时长超 **30 小时** ！从需求分析、技术选型、系统设计、项目初始化、前后端开发，每个环节我都 **从理论到实践** 给大家讲的明明白白、每个细节都不放过！
+千羽 **从 0 到 1 全程直播无剪辑** 地带大家开发完成项目，总课程时长超 **30 小时** ！从需求分析、技术选型、系统设计、项目初始化、前后端开发，每个环节我都 **从理论到实践** 给大家讲的明明白白、每个细节都不放过！
 
 ### 项目收获
 
-鱼皮给大家讲的都是通用的项目开发方法和架构设计套路，从这个项目中你可以学到：
+千羽给大家讲的都是通用的项目开发方法和架构设计套路，从这个项目中你可以学到：
 
 - 如何从设计到开发一套完整系统？
 - 如何在应用中使用 Docker 隔离程序？
@@ -220,7 +220,7 @@
 
 ### 项目笔记
 
-鱼皮直播笔记：[https://bcdh.yuque.com/staff-wpxfif/resource/rls4he4gffa1g1ob](https://bcdh.yuque.com/staff-wpxfif/resource/rls4he4gffa1g1ob)
+千羽直播笔记：[https://bcdh.yuque.com/staff-wpxfif/resource/rls4he4gffa1g1ob](https://bcdh.yuque.com/staff-wpxfif/resource/rls4he4gffa1g1ob)
 
 密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
@@ -273,7 +273,7 @@
 
 ## 学员反馈
 
-> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
+> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或千羽反馈，认真完成项目会有小奖励哦 🧧！
 
 ### 项目总结
 
@@ -311,8 +311,8 @@
 
 ## 更多项目
 
-请见：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
+请见：[项目实战 - 千羽原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 ## 加入学习
 
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，鱼皮原创项目均可学习。
+点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，千羽原创项目均可学习。

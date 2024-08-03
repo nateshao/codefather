@@ -5,7 +5,7 @@
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
 
-大家好，我是鱼皮。
+大家好，我是千羽。
 
 最近不是打算带大家做一个代码生成项目嘛，项目的第一阶段就是先做一个本地的代码生成器。代码生成器的核心功能就是根据用户输入的选项参数来生成不同的代码文件。
 
@@ -20,7 +20,7 @@
 举个例子，用户输入参数：
 
 ```java
-作者 = 鱼皮
+作者 = 千羽
 ```
 
 
@@ -39,7 +39,7 @@
 
 ```java
 -----------
-我是 鱼皮
+我是 千羽
 -----------
 ```
 
@@ -89,7 +89,7 @@ FreeMarker 官方文档：https://freemarker.apache.org/docs/index.html
 
 
 
-看不懂英文也没关系，鱼皮下面就带大家学习 FreeMarker，只讲常用的特性，主打一个快速入门！
+看不懂英文也没关系，千羽下面就带大家学习 FreeMarker，只讲常用的特性，主打一个快速入门！
 
 
 
@@ -127,7 +127,7 @@ FreeMarker 拥有自己的模板编写规则，一般用 FTL 表示 FreeMarker �
 
 
 
-让我们以《鱼皮官网》为例，举一个 FreeMarker 模板文件的例子：
+让我们以《千羽官网》为例，举一个 FreeMarker 模板文件的例子：
 
 学过前端开发框架的同学应该会觉得很眼熟~
 
@@ -137,10 +137,10 @@ FreeMarker 拥有自己的模板编写规则，一般用 FTL 表示 FreeMarker �
 <!DOCTYPE html>
 <html>
   <head>
-    <title>鱼皮官网</title>
+    <title>千羽官网</title>
   </head>
   <body>
-    <h1>欢迎来到鱼皮官网</h1>
+    <h1>欢迎来到千羽官网</h1>
     <ul>
       <#-- 循环渲染导航条 -->
       <#list menuItems as item>
@@ -149,7 +149,7 @@ FreeMarker 拥有自己的模板编写规则，一般用 FTL 表示 FreeMarker �
     </ul>
     <#-- 底部版权信息（注释部分，不会被输出）-->
       <footer>
-        ${currentYear} 鱼皮官网. All rights reserved.
+        ${currentYear} 千羽官网. All rights reserved.
       </footer>
   </body>
 </html>
@@ -163,7 +163,7 @@ FreeMarker 拥有自己的模板编写规则，一般用 FTL 表示 FreeMarker �
 
 在 FreeMarker 中，数据模型一般是树形结构，可以是复杂的 Java 对象、也可以是 HashMap 等更通用的结构。
 
-比如为上述《鱼皮官网》模板准备的数据模型，结构可能是这样的：
+比如为上述《千羽官网》模板准备的数据模型，结构可能是这样的：
 
 ```json
 {
@@ -233,7 +233,7 @@ configuration.setDefaultEncoding("utf-8");
 
 #### 3、准备模版并加载
 
-我们将上述《鱼皮官网》的模板代码保存为 `myweb.html.ftl` 文件，存放在上面指定的目录下。
+我们将上述《千羽官网》的模板代码保存为 `myweb.html.ftl` 文件，存放在上面指定的目录下。
 
 ![img](https://pic.yupi.icu/1/1699277942881-2d0897c2-114d-4722-8b19-cf9bc6d21fcc.png)
 
@@ -252,7 +252,7 @@ Template template = configuration.getTemplate("myweb.html.ftl");
 
 如果想保证数据的质量和规范性，可以使用对象来保存 “喂” 给模板的数据；反之，如果想更灵活地构造数据模型，推荐使用 HashMap 结构。
 
-比如我们想构造《鱼皮官网》的数据模型，需要制定当前年份和导航菜单项，示例代码如下：
+比如我们想构造《千羽官网》的数据模型，需要制定当前年份和导航菜单项，示例代码如下：
 
 ```java
 Map<String, Object> dataModel = new HashMap<>();
@@ -372,8 +372,8 @@ public static void main(String[] args) throws IOException, TemplateException {
 和程序开发一样，FreeMarker 模板也支持分支表达式（if ... else），示例代码如下：
 
 ```java
-<#if user == "鱼皮">
-  我是鱼皮
+<#if user == "千羽">
+  我是千羽
 <#else>
   我是猪皮
 </#if>
@@ -452,7 +452,7 @@ ${userName}
 可以用 `@` 语法来使用宏，示例代码如下：
 
 ```java
-<@card userName="鱼皮"/>
+<@card userName="千羽"/>
 <@card userName="二黑"/>
 ```
 
@@ -462,7 +462,7 @@ ${userName}
 
 ```java
 ---------    
-鱼皮
+千羽
 ---------
 ---------    
 二黑

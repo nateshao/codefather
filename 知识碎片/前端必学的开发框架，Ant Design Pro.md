@@ -5,7 +5,7 @@
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
 
-大家好，我是鱼皮，今天给大家分享一个我自己用了多年、现在团队也在用的前端框架 —— Ant Design Pro。
+大家好，我是千羽，今天给大家分享一个我自己用了多年、现在团队也在用的前端框架 —— Ant Design Pro。
 
 
 
@@ -67,7 +67,7 @@ Ant Design Pro 是由蚂蚁金服开发的、基于 Ant Design 组件库的开�
 
 从生态上来说，Ant Design Pro 是由大厂团队开发维护、质量有保障；并且在 GitHub 上有几万个 star、社区也比较活跃，很多开发时出现的问题都有解决方案。
 
-而作为一名全栈开发者，鱼皮个人喜欢使用  Ant Design 和  Ant Design Pro 全家桶的重要原因是：Ant Design 同时有 Vue 和 React 的实现版本，无论我选择什么前端框架开发项目，都能保持编码和网站效果的一致性，进一步提高开发效率。
+而作为一名全栈开发者，千羽个人喜欢使用  Ant Design 和  Ant Design Pro 全家桶的重要原因是：Ant Design 同时有 Vue 和 React 的实现版本，无论我选择什么前端框架开发项目，都能保持编码和网站效果的一致性，进一步提高开发效率。
 
 换言之，学这一套组件库就足够了！
 
