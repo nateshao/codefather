@@ -1,6 +1,6 @@
 # 我和 AI 的故事
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -14,7 +14,7 @@
 
 这篇文章就给大家分享下我和 AI 的故事，看看 AI 是如何 “入侵” 了我的工作和生活。
 
-## 程序员鱼皮
+## 程序员千羽
 
 首先当然要从咱的本职工作说起。
 

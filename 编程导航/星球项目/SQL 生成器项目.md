@@ -1,6 +1,6 @@
 # SQL 生成器项目
 
-> by 程序员鱼皮 [知识星球](https://yupi.icu)
+> by 程序员千羽 [知识星球](https://yupi.icu)
 
 ## 项目介绍
 

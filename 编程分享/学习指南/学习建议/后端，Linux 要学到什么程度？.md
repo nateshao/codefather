@@ -1,10 +1,10 @@
 # 后端，Linux 要学到什么程度？
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是程序员鱼皮。今天收到 [编程导航](https://mp.weixin.qq.com/s/a5X7bNI_ydVuu7NV1eQhZQ) 一位大二鱼友的提问：
+大家好，我是程序员千羽。今天收到 [编程导航](https://mp.weixin.qq.com/s/a5X7bNI_ydVuu7NV1eQhZQ) 一位大二鱼友的提问：
 
 
 

@@ -4,9 +4,9 @@
 export default {
   friendLinks: [
     {
-      label: "站长 - 程序员鱼皮",
+      label: "站长 - 程序员千羽",
       // icon: "/icon/user.svg",
-      href: "https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah",
+      href: "https://github.com/nateshao",
     },
     {
       label: "鱼鸢网络",

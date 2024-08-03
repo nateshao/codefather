@@ -1,10 +1,10 @@
 # 我开源了一套 RPC 框架，学爆它！
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是程序员鱼皮。
+大家好，我是程序员千羽。
 
 呼吸不停，新项目不止！前段时间开始带大家做的新项目《从 0 到 1 开发 RPC 框架》已经完成，教程也已经写完了~
 

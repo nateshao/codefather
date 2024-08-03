@@ -1,6 +1,6 @@
 # Bug 解决｜组件库报错、或样式丢失不生效
 
-> 程序员鱼皮的编程宝典：https://codefather.cn/
+> 程序员千羽的编程时光：https://codefather.cn/
 
 
 

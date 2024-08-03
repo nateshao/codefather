@@ -1,6 +1,6 @@
 # 使用 ES 优化网站搜索体验
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -53,7 +53,7 @@ var idx = lunr(function () {
   // 内容
   this.add({
     "title": "yupi",
-    "body": "wx搜程序员鱼皮，阅读我的原创文章",
+    "body": "wx搜程序员千羽，阅读我的原创文章",
     "id": "1"
   })
 })

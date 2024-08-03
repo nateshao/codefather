@@ -1,6 +1,6 @@
 # 使用 Java 程序自动构建 jar 包
 
-> 作者：[程序员鱼皮](https://space.bilibili.com/12890453/)，[编程导航星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
+> 作者：[程序员千羽](https://space.bilibili.com/12890453/)，[编程导航星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
 
 
 

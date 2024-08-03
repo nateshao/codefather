@@ -1,6 +1,6 @@
-# 数据结构和算法学习路线 by 程序员鱼皮
+# 数据结构和算法学习路线 by 程序员千羽
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -36,7 +36,7 @@
 
 ## 大纲
 思维导图源文件：
-[数据结构和算法学习路线 by 程序员鱼皮.xmind](https://bcdh.yuque.com/attachments/yuque/0/2022/xmind/398476/1647767616242-2d26b3c0-0a6f-425f-a125-5ddc78e532e0.xmind)
+[数据结构和算法学习路线 by 程序员千羽.xmind](https://bcdh.yuque.com/attachments/yuque/0/2022/xmind/398476/1647767616242-2d26b3c0-0a6f-425f-a125-5ddc78e532e0.xmind)
 ![](https://qiniuyun.code-nav.cn/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%20by%20%E7%A8%8B%E5%BA%8F%E5%91%98%E9%B1%BC%E7%9A%AE.png#id=zLsxq&originHeight=1828&originWidth=1782&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ## 知识

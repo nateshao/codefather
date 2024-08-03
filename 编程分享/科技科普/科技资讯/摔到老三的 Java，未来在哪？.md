@@ -1,6 +1,6 @@
 # 摔到老三的 Java，未来在哪？
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -62,7 +62,7 @@ Spring 的特点是轻量级且易于实现和使用，生态非常活跃，因�
 
 老实说，第一次看到这个图，我被吓了一跳，但也是情理之中吧。
 
-高清完整原图可以在鱼皮的公众号【程序员鱼皮】回复【大数据】领取~
+高清完整原图可以在鱼皮的公众号【程序员千羽】回复【大数据】领取~
 
 
 

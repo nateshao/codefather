@@ -1,6 +1,6 @@
 大家好，我是鱼皮，继前段时间爆火的 ChatGPT 后，又一个炸裂的开源项目 `Auto-GPT` 出现了。
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 

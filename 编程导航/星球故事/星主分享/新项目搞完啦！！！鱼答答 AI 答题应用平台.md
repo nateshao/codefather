@@ -1,6 +1,6 @@
 # 又一个新项目完结，炸裂！
 
-大家好，我是程序员鱼皮。
+大家好，我是程序员千羽。
 
 经过了一个多月的爆肝，我在 [自己的编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247561558&idx=3&sn=e7d79a65666e967a7bc874c6bf3d9b53&chksm=e9c316a1deb49fb72800a872439614b913b79b88f0f8b0735ddaa3f547c96bb5428ab9ffbc4e&token=2064528348&lang=zh_CN#rd) 的第 9 个有 **保姆级教程** 的大项目 ——  鱼答答 AI 答题应用平台，完结啦！
 

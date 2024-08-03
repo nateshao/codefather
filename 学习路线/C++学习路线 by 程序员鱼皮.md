@@ -1,6 +1,6 @@
-# C++ 学习路线 by 程序员鱼皮
+# C++ 学习路线 by 程序员千羽
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -205,7 +205,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 - I / O 操作 
    - 文件操作
 
-> by 程序员鱼皮 [知识星球](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
+> by 程序员千羽 [知识星球](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
 
 
 ## 二、C++ 进阶
@@ -318,7 +318,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 - [设计模式](https://www.code-nav.cn/post/1640588392073150465)
 - [软件工程](https://www.code-nav.cn/post/1640648711119892481)
 
-> by 程序员鱼皮 [知识星球](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
+> by 程序员千羽 [知识星球](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
 
 
 ## 五、后端开发通用

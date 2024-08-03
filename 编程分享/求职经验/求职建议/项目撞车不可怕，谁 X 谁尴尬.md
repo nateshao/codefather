@@ -1,10 +1,10 @@
 # 项目撞车不可怕，谁 X 谁尴尬
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是程序员鱼皮。
+大家好，我是程序员千羽。
 
 前天帮鱼友看简历的时候，看到了一个感觉还不错的项目经历，以为是他自己做的；结果看下一位同学的简历时，发现他写的也是这个项目，而且绝大多数的内容写得一模一样。
 

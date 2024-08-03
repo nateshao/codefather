@@ -1,6 +1,6 @@
 # 自制 AI 问答机器人
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -135,7 +135,7 @@ if(/你好/.test(text)) {
 } else if (/谢谢/.test(text)) {
   msg.say('不客气');
 } else if (/加群/.test(text)) {
-  msg.say('公众号[程序员鱼皮],回复[加群]');
+  msg.say('公众号[程序员千羽],回复[加群]');
 } else {
   msg.say('我不懂');
 }

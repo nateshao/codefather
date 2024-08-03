@@ -1,6 +1,6 @@
-# Python 学习路线 by 程序员鱼皮
+# Python 学习路线 by 程序员千羽
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -578,7 +578,7 @@ Python 能被广泛应用，很大程度上是因为其丰富的类库，就是�
 - 小甲鱼 -《零基础入门学习Python》最新版：https://www.bilibili.com/video/av52080698（可惜，更新到一半就没了。。）
 - 【麻省理工学院-中文字幕版】Python 和计算机科学导论公开课：https://www.bilibili.com/video/BV1ty4y1x7xP（适合外语不错的同学课外看，感受国外教学氛围）
 - 阿里云 python 工程师学习：https://developer.aliyun.com/graph/python（有在线编程体验）
-- 鱼皮公众号【程序员鱼皮】后台回复 Python，也有一套视频课
+- 鱼皮公众号【程序员千羽】后台回复 Python，也有一套视频课
 
 #### 其他
 

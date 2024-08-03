@@ -1,10 +1,10 @@
 # 你的 GitHub 年总结视频，这个项目火了！
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是程序员鱼皮。
+大家好，我是程序员千羽。
 
 昨天，GitHub 上的一个新项目 `github-unwrapped-2023` 火了：
 

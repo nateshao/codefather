@@ -1,6 +1,6 @@
 # B 站 UP 主推荐
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -116,7 +116,7 @@
 
 ------
 
-最后卑微推荐下自己【程序员鱼皮】，本来是个多才多艺一身是胆的少年，接触代码后好像除了肝也没什么特别的本事啦，也涨不动粉。就希望自己不要放弃，持续给大家分享编程知识，帮助到更多人吧。
+最后卑微推荐下自己【程序员千羽】，本来是个多才多艺一身是胆的少年，接触代码后好像除了肝也没什么特别的本事啦，也涨不动粉。就希望自己不要放弃，持续给大家分享编程知识，帮助到更多人吧。
 
 ![](https://pic.yupi.icu/5563/202311091159436.png)
 

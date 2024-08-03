@@ -1,6 +1,6 @@
 # 除了 MySQL，这些数据库你都认识么？
 
-> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+> 本文作者：[程序员千羽](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
@@ -154,7 +154,7 @@ KV 数据库的底层实现比较灵活，常见的实现方式是使用哈希�
 | 文档 ID | 文档数据                                                     |
 | :------ | :----------------------------------------------------------- |
 | 1       | {"_id": 1, "title": "文章标题1", "content": "这是文章1的内容"} |
-| 2       | {"_id": 2, "title": "文章标题2", "author": "程序员鱼皮"}     |
+| 2       | {"_id": 2, "title": "文章标题2", "author": "程序员千羽"}     |
 
 当我们要给某个文档新增一个字段时，不需要像关系型数据库一样改变表结构，非常灵活！
 

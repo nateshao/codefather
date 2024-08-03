@@ -1,6 +1,6 @@
 # Bug 解决  前端项目能运行，但有很多错误提示和告警？
 
-> 程序员鱼皮的编程宝典：https://codefather.cn/
+> 程序员千羽的编程时光：https://codefather.cn/
 
 
 
